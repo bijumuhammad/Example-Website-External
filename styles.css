@@ -1,0 +1,14 @@
+body{
+    background-color:#f0f0f2; 
+    font-family: sans-serif;
+    }
+div{
+    width: 600px; 
+    margin:100px auto;
+    padding: 2em; 
+    background-color: #fdfdff;
+    
+}
+#link{
+    text-decoration: none;
+}
